@@ -1,4 +1,9 @@
 <h1>AUTTP.</h1>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+Best with ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white) since it was made with Arc.
+
 <p>Why does the UTTP exist? I don't know, but they're actually predators. More than to see the eye.</p>
 <p>That's where the AUTTP exists. To stop the UTTP.</p>
 <p>The UTTP literally comments on random persons YT Shorts.</p>
