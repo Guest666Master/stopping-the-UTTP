@@ -13,3 +13,6 @@
 <p>I hate the UTTP. Literally, <b>can't they stop?</b> Let's make the AUTTP stronger than ever.</p>
 <p>We shouldn't stop with the AUTTP mission. We must stop the UTTP. <i><b>I guess, just stop the UTTP! Now!</b></i></p>
 <p>(chatlogs coming soon - source is from the OG AUTTP site.)</p>
+
+> [!CAUTION]
+> Reminder that the UTTP has come back stronger than 2024. In 2025, they're stronger than ever. You, as the user excercise caution of probably: either being stalked or/and being doxxed.
